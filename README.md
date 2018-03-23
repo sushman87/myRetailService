@@ -1,0 +1,2 @@
+# myRetailService
+A RestFul service
